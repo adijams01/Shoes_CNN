@@ -1,1 +1,1 @@
-# Shoes_CNN
+# Sneakers_CNN
