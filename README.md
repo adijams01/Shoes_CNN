@@ -44,6 +44,7 @@ The curves states that the model is **Overfitting**
 
 ### Method 2:
 The trained CNN model achieves an accuracy of around 82.46% on the test set, which is a good performance considering the complexity and variability of the sneaker images. You can also visualize the training and validation loss and accuracy curves using the Matplotlib library.
+
 <img width="232" alt="Screenshot 2023-03-06 200455" src="https://user-images.githubusercontent.com/92617405/223141719-fb9beb0e-b25d-49d0-9652-b11804c5b0c0.png">
 
 The curves states that the model is fitting properly
